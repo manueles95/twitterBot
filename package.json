@@ -1,0 +1,14 @@
+{
+  "name": "tbot",
+  "version": "1.0.0",
+  "description": "tweet psting bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "manueles95",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "2.2.5"
+  }
+}
